@@ -1,0 +1,4 @@
+baseURL = 'https://truthscore.ai'
+languageCode = 'en-us'
+title = 'TruthScore.ai'
+theme = 'ananke'
